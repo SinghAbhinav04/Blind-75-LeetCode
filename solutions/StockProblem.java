@@ -24,6 +24,8 @@
         1 <= prices.length <= 105
         0 <= prices[i] <= 104*/
 
+
+//solution
 public class StockProblem {
     public static int solution(int[] prices) {
         int buyPrice = prices[0];
