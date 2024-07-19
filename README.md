@@ -3,11 +3,11 @@
 Welcome to the LeetCode Solutions repository! This repository contains my solutions to various problems from LeetCode.
 
 ## Array
-- [ ] Two Sum
-- [ ] Best Time to Buy and Sell Stock
-- [ ] Contains Duplicate
-- [ ] Product of Array Except Self
-- [ ] Maximum Subarray
+- [x] Two Sum
+- [x] Best Time to Buy and Sell Stock
+- [x] Contains Duplicate
+- [x] Product of Array Except Self
+- [x] Maximum Subarray
 - [ ] Maximum Product Subarray
 - [ ] Find Minimum in Rotated Sorted Array
 - [ ] Search in Rotated Sorted Array
